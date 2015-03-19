@@ -1,0 +1,24 @@
+Dado é qualquer elemento identificado em sua forma bruta que,por si só, não conduz a uma compreensão de determinado fato ou situação. 
+
+Informação é o dado trabalhado e processado que permite ao executivo tomar decisões.
+Exemplo de dado usado para gerar uma informação:
+________________________________________________________________________________
+Noticia G1: http://g1.globo.com/ciencia-e-saude/noticia/2014/12/taxa-de-mortalidade-infantil-cai-para-15-cada-mil-nascimentos-diz-ibge.html
+
+O dado foi obtido pelo: Instituto Brasileiro de Geografia e Estatística (IBGE) 
+
+Onde o dado foi recolhido: em todo Brasil
+
+Quando o dado foi coletado em: 2013
+
+Como foi obtido o dado: 
+A partir do cadastro de locais e do cadastro de insumos são montados 3 arquivos:
+Arquivo de dados cadastrais:
+Contém as informações que identificam e localizam o local (informante), tais como: razão social, nome, endereço, telefone, etc.
+Arquivo insumo(s)/local:Para cada local são associados apenas os insumos de interesse do SINAPI (definidos pela CAIXA), nele comercializados. Esta associação é feita através da PLC (pesquisa de locais de compra).
+Arquivo de especificações:Reúne as descrições detalhadas dos insumos (descrição básica + complementação + unidade de comercialização), de tal forma que eles possam ser perfeitamente identificados no momento da coleta.
+Da conjugação destes 3 arquivos é emitido o "Questionário Padrão - QP", usado na coleta.
+
+Informação gerada pelo dado apresentado: Houve 15 mortes de crianças até 1 ano para cada mil nascimentos, contra 15,7 em 2012.
+
+________________________________________________________________________________
